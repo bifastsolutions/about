@@ -74,8 +74,8 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 --- 
   
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=RaphaelAmorimSantana&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAmorimSantana&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) 
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=bifastsolutions&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bifastsolutions&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) 
   
 ---
 
@@ -87,7 +87,8 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/017c67a1-2ddf-472f-bc4b-82ee5c15bbe9/public_url) 
 [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/100x100/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/64b1e209-d573-4c84-af68-f7084adaac66/public_url)
 [![Astronomer Certification for Apache Airflow Fundamentals](https://images.credly.com/size/100x100/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png)](https://www.credly.com/badges/40655436-e470-4f89-a9e1-06268fa7f7bc/public_url)
-[![DataOps Methodology](https://images.credly.com/size/100x100/images/eb72ee73-7870-4453-af72-f656f473199b/DataOps_Methodology.png)](https://www.credly.com/badges/333daa8e-8928-4669-bed7-5b197ee92030/public_url)
+[![Databricks Lakehouse Fundamentals](https://www.databricks.com/sites/default/files/2021/12/lakehouse-fundamentals.png)](https://www.credly.com/badges/40655436-e470-4f89-a9e1-06268fa7f7bc/public_url)
+[![DataOps Methodology](https://images.credly.com/size/100x100/images/eb72ee73-7870-4453-af72-f656f473199b/DataOps_Methodology.png)](https://scq.io/fM9cG5C)
 
 ---
 
