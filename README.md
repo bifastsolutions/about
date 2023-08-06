@@ -103,11 +103,11 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Cuidado ao usar o Slicer (Segmentador de dados) - Power BI](https://www.youtube.com/watch?v=DNUbRMeUmwA&t=8s)
-- [Análise Google Interview Warmup , vale a pena usar?](https://www.youtube.com/watch?v=cbM8FZddO_c&t=4s)
-- [Acesso ao S3 pelo AWS CLI no Pentaho - Instalação e Configuração](https://www.youtube.com/watch?v=uvbJZk-kaA8)
-- [O que é entregar valor para o Cliente? Projetos de Dados](https://www.youtube.com/watch?v=aa3r5F1OAF4&t=2s)
-- [Erros comuns em inglês - Área de Dados](https://www.youtube.com/watch?v=F-U1Y11u9cg)
+- [AWS IAM completo](https://www.youtube.com/watch?v=v5BIbsuryt0)
+- [Criando conta na cloud AWS em 5 minutos - 2023](https://www.youtube.com/watch?v=_MGakUZzxvg)
+- [Perca o medo de usar a CLOUD AWS agora!!!](https://www.youtube.com/watch?v=V3KLTjlZo3o)
+- [10 habilidades que todo profissonal de TI precisa ter 2023](https://www.youtube.com/watch?v=E-OZg8zvDQU)
+- [Você sabe o que é ferramenta Low Code / No code?](https://www.youtube.com/watch?v=KwQrKPqT1Hw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCD0hywLbFyS_3i5Lh5dJH3Q/featured)
