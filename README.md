@@ -86,8 +86,8 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 [![MTA: Database Fundamentals](https://images.credly.com/size/100x100/images/89076aca-a42e-47e1-8172-5b60b31812d9/MTA-Database_Fundamentals.png)](https://www.credly.com/badges/146590a2-343b-4bad-9a79-a8f86c1d9a79/public_url)
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/100x100/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/017c67a1-2ddf-472f-bc4b-82ee5c15bbe9/public_url) 
 [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/100x100/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/64b1e209-d573-4c84-af68-f7084adaac66/public_url)
-[![Astronomer Certification for Apache Airflow Fundamentals](https://images.credly.com/size/340x340/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png)](https://www.credly.com/badges/40655436-e470-4f89-a9e1-06268fa7f7bc/public_url)
-[![DataOps Methodology](https://images.credly.com/size/340x340/images/eb72ee73-7870-4453-af72-f656f473199b/DataOps_Methodology.png)](https://www.credly.com/badges/333daa8e-8928-4669-bed7-5b197ee92030/public_url)
+[![Astronomer Certification for Apache Airflow Fundamentals](https://images.credly.com/size/100x100/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png)](https://www.credly.com/badges/40655436-e470-4f89-a9e1-06268fa7f7bc/public_url)
+[![DataOps Methodology](https://images.credly.com/size/100x100/images/eb72ee73-7870-4453-af72-f656f473199b/DataOps_Methodology.png)](https://www.credly.com/badges/333daa8e-8928-4669-bed7-5b197ee92030/public_url)
 
 ---
 
